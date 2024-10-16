@@ -80,6 +80,7 @@ summary(model)
 
 # test if the bare soil cover is different
 # hallo 
+# hoestie
 
 # test if the species community composition is different with a permanova
 
