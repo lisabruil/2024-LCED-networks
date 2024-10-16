@@ -82,5 +82,7 @@ summary(model)
 # hallo 
 # hoestie
 
+
+
 # test if the species community composition is different with a permanova
 
