@@ -41,7 +41,7 @@ p1 <-AllData |>
 p1
 p2 <-AllData |> 
   ggplot(aes(x=Type,y=ClayThick, fill=Type)) +
-  dplyr::geom_boxplot() +
+  geom_boxplot() +
   labs(x="Inside or outside depression",
        y="Clay thickness (cm)",
        title="Clay layer")
